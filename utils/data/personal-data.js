@@ -8,10 +8,10 @@ export const personalData = {
   address: 'Calle 10, El Poblado, Medellín, Antioquia, Colombia',
   github: 'https://github.com/nilson1130',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
+  linkedIn: 'https://www.linkedin.com/in/richard-stewart/',
   twitter: 'https://twitter.com/said7388',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  leetcode: "https://leetcode.com/u/01vmZN6LLb/",
+  devUsername: "stewart1225",
   resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
 }

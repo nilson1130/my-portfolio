@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Portfolio of Richard Stewart - Full Stack Developer",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "This is the portfolio of Richard Stewart. I am creative and detail-oriented Full Stack Developer with expertise in designing and implementing scalable web applications. Skilled in HTML, CSS, JavaScript, and frameworks like Vue.js and React for front-end development, along with back-end technologies such as Node.js, Django, and Ruby on Rails. Experienced with RESTful API development, database design, and cloud services. Passionate about building seamless user experiences and contributing to innovative tech projects.",
 };
 
 export default function RootLayout({ children }) {
