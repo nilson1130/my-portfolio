@@ -1,3 +1,4 @@
+// This is a client component and must only be imported in other client components or via dynamic import with ssr: false
 "use client";
 
 import { useEffect, useState } from "react";
